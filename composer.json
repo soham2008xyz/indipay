@@ -10,7 +10,7 @@
         "EBS",
         "CitrusPay",
         "InstaMojo",
-        "Mobikwik / ZapakPay",
+        "Mobikwik / ZaakPay",
         "Paytm",
         "Mocker"
     ],
@@ -40,5 +40,6 @@
             }
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
